@@ -1,0 +1,12 @@
+{
+  "name": "Banter",
+  "start_url": "localhost:5000",
+  "description": "A demo micro-blogging app, built with radiks.",
+  "icons": [
+    {
+      "src": "https://banter-pub.imgix.net/cat.svg",
+      "sizes": "192x192",
+      "type": "image/svg"
+    }
+  ]
+}
